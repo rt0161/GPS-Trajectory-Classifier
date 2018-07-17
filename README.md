@@ -1,0 +1,4 @@
+# GPS-Trajectory-Classifier
+
+Tracking people's’ travel pattern is an interesting topic. Being able to predict a person’s travel pattern in daily routine or extracurricular trips, from their previous travel patterns, will provide a very good data to identify client type, suggest shopping or travel package, or even sale taxi/uber/3rd party ride shares… etc. This project will analyze the gps trajectory data out of 181 users for 3 years, with time sample every 1~5 seconds or distant of every 5~10 meters per point. The goal is classify the travel pattern of the users into different categories and predict (1) either a specific user’s travel behavior in certain time range (e.g. weekday Monday), or (2) create a model that can quickly categorize a new user’s  travel habit(e.g. Places he/she likes to visit, and on what kind of transportation: on foot, car, subway, bike...etc.).
+
